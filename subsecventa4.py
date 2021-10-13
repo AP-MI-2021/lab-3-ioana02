@@ -153,6 +153,7 @@ def print_menu():
 def main():
     test_get_longest_all_primes()
     test_get_longest_all_palindromes()
+    test_get_longest_all_even()
     lst= []
     while True:
         print_menu()
